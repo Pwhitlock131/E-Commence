@@ -16,5 +16,7 @@ This project is currently unfinished as there is an error when trying to run see
 7. Insomnia
 
 # Links
+https://github.com/Pwhitlock131/E-Commence
 
+https://drive.google.com/file/d/1yrSDQt1X1lx-xffAan-FKUtXlxzVJQsV/view
 
